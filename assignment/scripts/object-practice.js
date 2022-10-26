@@ -13,7 +13,8 @@ const me = {
   firstName: "Peter",
   lastName: "Lee",
   hasSiblings: true,
-  showCount: 4 
+  shoeCount: 4,
+  favThreeFoods: ["pizza", "pasta", "chips"]
 };
 console.log('A little about me:', me);
 
@@ -33,6 +34,13 @@ console.log('A little about me:', me);
 */
 let fullName = `${me.firstName} ${me.lastName}`;
 console.log(fullName);
+
+
+
+
+
+
+
 
 
 /* 3. Nested arrays
