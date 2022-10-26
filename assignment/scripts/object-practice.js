@@ -10,8 +10,20 @@ console.log('***** Object Practice *****')
 */
 const me = {
   // TODO - add properties here
+  firstName: "Peter",
+  lastName: "Lee",
+  hasSiblings: true,
+  showCount: 4 
 };
 console.log('A little about me:', me);
+
+
+
+
+
+
+
+
 
 /* 2. Accessing object properties.
   - Create a variable called fullName 
